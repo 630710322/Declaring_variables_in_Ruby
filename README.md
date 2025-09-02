@@ -82,6 +82,21 @@
      B
      3
      3.0
+และสามารถทำการลบตัวแปรด้วยคำสั่ง del
+### Example :
+     counter = 100
+     print (counter)
+     
+     del counter
+     print (counter)
+### Output :
+     100
+     
+     Traceback (most recent call last):
+     File "main.py", line 7, in <module>
+     print (counter)
+     NameError: name 'counter' is not defined
+
 # คลิปนำเสนอ
 ...
 # Presentation (slides)
