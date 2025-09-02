@@ -54,6 +54,7 @@
         System.out.println("Salary: " + salary);
         }
      }
+
 ### Output :
      Age: 25
      Name: GeeksforGeeks
