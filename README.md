@@ -40,18 +40,24 @@
      11
      
 ## Java >>
-ตัวแปรใน Java มีหลายประเภท จึงต้องเลือกประเภทตัวแปรก่อนตั้งชื่อ แล้วถึงจะกำหนดค่าตัวแปรได้
+ตัวแปรใน Java มีหลายประเภท จึงต้องเลือกประเภทตัวแปรก่อนตั้งชื่อแล้วถึงจะกำหนดค่าตัวแปรได้
 ### Example :
-     string name = "Ruby";
-     int age = 15;
-     boolean human = true;
-     
-     System.out.println(name);
-     System.out.println(age);
-     System.out.println(human);
+     class Geeks {
+        public static void main(String[] args) {
+        int age = 25;      
+        String name = "GeeksforGeeks"; 
+        double salary = 50000.50;     
+
+       
+        System.out.println("Age: " + age);          
+        System.out.println("Name: " + name);        
+        System.out.println("Salary: " + salary);
+        }
+     }
 ### Output :
-     Ruby
-     15
+     Age: 25
+     Name: GeeksforGeeks
+     Salary: 50000.5
 
 ## Python >>
 การประกาศตัวแปรในภาษา Python จะไม่มีการกำหนดประเภทตัวแปร จะสามารถกำหนดค่าตัวแปรได้เลย คล้ายๆ Ruby
@@ -105,8 +111,8 @@
 
 https://www.theodinproject.com/lessons/ruby-variables
 
-https://www.w3schools.com/java/java_variables.asp
+https://www.geeksforgeeks.org/java/variables-in-java/
 
 https://www.w3schools.com/c/c_variables.php
 
-https://www.w3schools.com/python/python_variables.asp
+https://www.tutorialspoint.com/python/python_variables.htm
