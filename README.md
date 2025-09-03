@@ -110,10 +110,14 @@
 ...
 # Reference from : 
 
-https://www.theodinproject.com/lessons/ruby-variables
+N.,“Variables – Ruby Course,” *The Odin Project*. [Online]. 
+Available: https://www.theodinproject.com/lessons/ruby-variables. [Accessed: Sep. 2, 2025].
 
-https://www.geeksforgeeks.org/java/variables-in-java/
+N.,“Variables in Java,” GeeksforGeeks. [Online]. 
+Available: https://www.geeksforgeeks.org/java/variables-in-java/ [Accessed: Sep. 2, 2025].
 
-https://www.w3schools.com/c/c_variables.php
+N.,“C Variables,” W3Schools. [Online]. 
+Available: https://www.w3schools.com/c/c_variables.php. [Accessed: Sep. 3, 2025].
 
-https://www.tutorialspoint.com/python/python_variables.htm
+N.,“Python Variables,” TutorialsPoint. [Online]. 
+Available: https://www.tutorialspoint.com/python/python_variables.htm. [Accessed: Sep. 3, 2025].
