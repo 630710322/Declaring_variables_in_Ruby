@@ -113,6 +113,9 @@
 N.,“Variables – Ruby Course,” *The Odin Project*. [Online]. 
 Available: https://www.theodinproject.com/lessons/ruby-variables. [Accessed: Sep. 2, 2025].
 
+N.,“ตัวแปร, การประกาศและใช้งานตัวแปรในภาษา Ruby,” MarcusCode, Sep. 25, 2019. [Online]. 
+Available: https://marcuscode.com/lang/ruby/variables-basic. [Accessed: Sep. 3, 2025].
+
 N.,“Variables in Java,” GeeksforGeeks. [Online]. 
 Available: https://www.geeksforgeeks.org/java/variables-in-java/ [Accessed: Sep. 2, 2025].
 
